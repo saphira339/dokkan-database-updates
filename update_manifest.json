@@ -1,7 +1,7 @@
 {
   "app_version": 2,
   "app_display_version": "1.1",
-  "app_download_url": "",
+  "app_download_url": "https://github.com/",
   "message": "A new version of Dokkan Database is available.",
   "database_version": 1,
   "database_download_url": ""
